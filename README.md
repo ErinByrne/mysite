@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <!-- Peak to Peak HTML5 Template -->
